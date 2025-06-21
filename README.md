@@ -1,5 +1,10 @@
 # QuickLauncher Shortcut Launcher
 
+## Download
+
+<a href="https://apps.microsoft.com/detail/9nw6szxdqqzv?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 
 
 ## Overview
