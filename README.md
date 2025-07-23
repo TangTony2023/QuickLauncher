@@ -6,6 +6,13 @@
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
+## Lastest product (QuickDo)
+If you interested my product, you can download new product from this link.
+
+<a href="https://apps.microsoft.com/detail/9nrn16d4474v?referrer=appbadge&mode=direct">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 ### If you like my program, you can follow me on Facebook 
 https://www.facebook.com/share/p/16RCUXiz26/
 
