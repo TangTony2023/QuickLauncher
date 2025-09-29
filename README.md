@@ -13,8 +13,9 @@ If you interested my product, you can download new product from this link.
 	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
 </a>
 
-### If you like my program, you can follow me on Facebook 
-https://www.facebook.com/share/p/16RCUXiz26/
+## Donate
+If you like this app, you can consider supporting my development work!
+https://buy.stripe.com/14A9AM0eeeLzdf5eAVgYU01
 
 ## Overview
 
