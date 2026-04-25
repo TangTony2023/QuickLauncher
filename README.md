@@ -18,6 +18,8 @@ If you like this app, you can consider supporting my development work!
 
 https://buy.stripe.com/14A9AM0eeeLzdf5eAVgYU01
 
+https://buy.polar.sh/polar_cl_AVJ6vBwdwi7UKEvjzW78hyNGUF3INxYTKw0e52sJfCI
+
 ## Overview
 
 QuickLauncher is a lightweight shortcut management tool designed to help users quickly organize and launch frequently used applications. It features an elegant user interface, powerful category management, and convenient shortcut access.  
